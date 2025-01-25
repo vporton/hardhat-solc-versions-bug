@@ -178,10 +178,10 @@
     "@types/bn.js" "*"
     "@types/underscore" "*"
 
-abdk-libraries-solidity@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/abdk-libraries-solidity/-/abdk-libraries-solidity-2.4.0.tgz#4a9ed6baa2017c0a18118c804e8c9258017d4a35"
-  integrity sha512-C6RpN6hdi5sHNIKt5SGt8pGQAmmGdPIe3Cf95JBiZ+iTO5wushwkDC0r+38fSjsC/uA9rhpl/THyyZuvZv8c6g==
+abdk-libraries-solidity@2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/abdk-libraries-solidity/-/abdk-libraries-solidity-2.7.0.tgz#d95a3cf929feb6fc481ecf8a16d8b88a1771c75f"
+  integrity sha512-NfoHitbYWenIccq0BYEYV//ExAbgvsPY9l6phN/s7ur7VBSgWYNweL38AomseB7AquGBfBsGBDuxRQqaYPEsuQ==
 
 abort-controller@^3.0.0:
   version "3.0.0"

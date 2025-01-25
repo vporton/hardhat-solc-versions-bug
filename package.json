@@ -3,7 +3,7 @@
     "compile": "hardhat compile"
   },
   "dependencies": {
-    "abdk-libraries-solidity": "2.4.0",
+    "abdk-libraries-solidity": "2.7.0",
     "hardhat": "^2.0.6"
   },
   "devDependencies": {
